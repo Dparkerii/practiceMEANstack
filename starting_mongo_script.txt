@@ -1,0 +1,1 @@
+mongod --dbpath C:\Users\bubbawin\Desktop\Javascript_practice\express_practice\nodetest2\data
